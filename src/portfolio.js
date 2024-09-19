@@ -50,9 +50,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS "
-    )
+    emoji("⚡ Integration of third party services such as Firebase/ AWS ")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -108,7 +106,6 @@ const educationInfo = {
         "A University of Alberta China First Year Excellence Scholarship, 2016 - 17",
         "A University of Alberta Undergraduate Scholarship, 2017 - 18",
         "An International Student Scholarship of University of Alberta, 2017,2018,2019"
-
       ]
     },
     {
@@ -179,7 +176,6 @@ const workExperiences = {
   ]
 };
 
-
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
@@ -230,7 +226,6 @@ const achievementSection = {
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
-
     {
       title: "PWA Web App Developer",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
@@ -295,7 +290,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: false// Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
